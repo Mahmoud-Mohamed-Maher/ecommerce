@@ -44,7 +44,7 @@ Meet the brilliant minds behind Electro:
 
 - Mahmoud Sadek
 - Omar Ahmed Abo Ziada
-- Mahmoud Mohamed
+- Mahmoud Mohamed Maher
 - Saeed Mohamed
 - Mohammed Abdelraheem
 - Anas Ashraf
